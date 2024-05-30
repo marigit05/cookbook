@@ -1,0 +1,69 @@
+body {
+  font-family: Calibri, 
+  
+}
+
+
+
+header {
+  background-color: whitesmoke;
+  text-align: center;
+  padding: 20px;
+}
+
+nav {
+  background-color: olive;
+  text-align: center;
+  padding: 10px;
+  
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: bottom 30px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-wrap: stable;
+  
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 70px;
+  font-size: larger;
+  
+  
+}
+
+nav a {
+  text-decoration: none;
+  color: antiquewhite;
+}
+
+main {
+  padding: 4rem;
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+
+footer {
+  background-color: olive;
+  text-align: center;
+  padding: 10px;
+  color: #fff;
+}
